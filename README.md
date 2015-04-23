@@ -36,4 +36,4 @@ http://www.pianostreet.com/search/special.php
 
 ## Colophon
 
-[MuseScore](https://musescore.org/) - MusicXML score editing
+[MuseScore](https://musescore.org/) v1.2 - score editing and export to MusicXML
