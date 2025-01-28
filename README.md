@@ -12,15 +12,15 @@ published in Vienna in 1785 by Christoph Torricella.
 
 Twelve Variations on "Ah vous dirai-je, Maman"  
 From Wikipedia, the free encyclopedia  
-https://en.wikipedia.org/wiki/Twelve\_Variations\_on\_"Ah\_vous\_dirai-je,\_Maman"
+https://en.wikipedia.org/wiki/Twelve_Variations_on_"Ah_vous_dirai-je,_Maman"
 
 Zwölf Variationen in C über das Französische Lied "Ah, vous dirai-je Maman"  
 In NMA IX/26: Variationen für Klavier, Kritischer Bericht (Fischer, 1962)  
-http://dme.mozarteum.at/DME/nma/nma\_cont.php?vsep=200&l=1&p1=54
+http://dme.mozarteum.at/DME/nma/nma_cont.php?vsep=200&l=1&p1=54
 
 Zwölf Variationen in C für Klavier über das französische Lied “Ah, vous dirai-je Maman” KV 265 (300e)  
 Distributed by OMI - Old Manuscripts & Incunabula  
-http://www.omifacsimiles.com/brochures/moz\_var.html
+http://www.omifacsimiles.com/brochures/moz_var.html
 
 Facsimile: Variations for Piano in C- major KV 265 (300e)  
 Distributed by Mozarthaus Salzburg - International Mozarteum Foundation  
