@@ -12,10 +12,11 @@ published in Vienna in 1785 by Christoph Torricella.
 
 * Twelve Variations on "Ah vous dirai-je, Maman"  
   From Wikipedia, the free encyclopedia  
-  https://en.wikipedia.org/wiki/Twelve_Variations_on_"Ah_vous_dirai-je,_Maman"
+  https://en.wikipedia.org/wiki/Ah!_vous_dirai-je,_maman
 
 * Zwölf Variationen in C über das Französische Lied "Ah, vous dirai-je Maman"  
   In NMA IX/26: Variationen für Klavier, Kritischer Bericht (Fischer, 1962)  
+  https://dme.mozarteum.at/DME/nma/nma_cont.php?vsep=199&gen=1&l=1&p1=49  
   http://dme.mozarteum.at/DME/nma/nma_cont.php?vsep=200&l=1&p1=54
 
 * Zwölf Variationen in C für Klavier über das französische Lied “Ah, vous dirai-je Maman” KV 265 (300e)  
@@ -24,15 +25,15 @@ published in Vienna in 1785 by Christoph Torricella.
 
 * Facsimile: Variations for Piano in C- major KV 265 (300e)  
   Distributed by Mozarthaus Salzburg - International Mozarteum Foundation  
-  http://www.mozarthaus.biz/en/745-facsimile-variations-for-piano-c-dur-kv-265-300e-about-the-sound-ah-vous-dirai-je-maman-with-introduction-in-german.html
+  https://www.mozarthaus.biz/en_books-u.-guides_facsimiles-mozart__facsimile:-variations-for-piano-in-c-major-kv-265-(300e).htm
 
 * 12 Variations on "Twinkle, twinkle" (Ah, vous dirai-je, maman), autograph manuscript  
   Distributed by pianostreet.com  
-  http://www.pianostreet.com/search/special.php
+  https://www.pianostreet.com/resources/manuscripts.php
 
 * 12 Variations on "Twinkle, twinkle" (Ah, vous dirai-je, maman), first edition  
   Distributed by pianostreet.com  
-  http://www.pianostreet.com/search/special.php
+  https://www.pianostreet.com/resources/manuscripts.php
 
 ## Colophon
 
